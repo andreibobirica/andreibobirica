@@ -2,5 +2,5 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me 
-- Telegram : @bob99and
+- Telegram : [@bob99and](https://t.me/bob99and)
 - Email : andreibobirica99@gmail.com
